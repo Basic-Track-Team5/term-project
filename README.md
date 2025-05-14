@@ -50,4 +50,4 @@ The RT-IoT2022 dataset used in this project is licensed under the Creative Commo
 
 You can find the original dataset at the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/942/rt-iot2022).
 
-The full text of the CC BY 4.0 License is available in the [LICENSE](LICENSE) file in this repository.
+The full text of the CC BY 4.0 License is available in the [LICENSE](LICENSE.md) file in this repository.
